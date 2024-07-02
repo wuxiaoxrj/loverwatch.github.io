@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://wuxiaoxrj.github.io/sitemap.xml
+Sitemap: https://wuxiaoxrj.github.io/loverwatch.github.io/sitemap.xml
