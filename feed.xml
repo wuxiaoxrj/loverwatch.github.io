@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>loverwatch</title>
-    <link href="https://wuxiaoxrj.github.io/feed.xml" rel="self" />
-    <link href="https://wuxiaoxrj.github.io" />
+    <link href="https://wuxiaoxrj.github.io/loverwatch.github.io/feed.xml" rel="self" />
+    <link href="https://wuxiaoxrj.github.io/loverwatch.github.io" />
     <updated>2024-07-03T02:37:54+08:00</updated>
     <author>
         <name>loverwatch</name>
     </author>
-    <id>https://wuxiaoxrj.github.io</id>
+    <id>https://wuxiaoxrj.github.io/loverwatch.github.io</id>
 
     <entry>
         <title>ChromeAI – 无限量、离线使用的 Chrome Dev 内置 Gemini Nano 大语言模型</title>
         <author>
             <name>loverwatch</name>
         </author>
-        <link href="https://wuxiaoxrj.github.io/chromeai-wu-xian-liangchi-xian-shi-yong-de-chrome-dev-nei-zhi-gemini-nano-da-yu-yan-mo-xing.html"/>
-        <id>https://wuxiaoxrj.github.io/chromeai-wu-xian-liangchi-xian-shi-yong-de-chrome-dev-nei-zhi-gemini-nano-da-yu-yan-mo-xing.html</id>
+        <link href="https://wuxiaoxrj.github.io/loverwatch.github.io/chromeai-wu-xian-liangchi-xian-shi-yong-de-chrome-dev-nei-zhi-gemini-nano-da-yu-yan-mo-xing.html"/>
+        <id>https://wuxiaoxrj.github.io/loverwatch.github.io/chromeai-wu-xian-liangchi-xian-shi-yong-de-chrome-dev-nei-zhi-gemini-nano-da-yu-yan-mo-xing.html</id>
 
         <updated>2024-07-03T02:37:54+08:00</updated>
             <summary>
