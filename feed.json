@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://wuxiaoxrj.github.io/loverwatch.github.io/2024zhu-yao-de-ttsmo-xing-hui-zong.html",
+            "url": "https://wuxiaoxrj.github.io/loverwatch.github.io/2024zhu-yao-de-ttsmo-xing-hui-zong.html",
+            "title": "2024主要的TTS模型汇总",
+            "summary": "2024主要的TTS模型汇总 1. GPT-SoVITS 描述: AI 卖货主播大模型Streamer-Sales销冠用的这款TTS模型，支持英语、日语和中文，零样本文本到语音（TTS），集成工具包。 GitHub: GPT-SoVITS 2. Fish Speech v1.2 描述: 效果稳定非常好，支持克隆语音。经过 30 万小时的英语、中文和日语音频数据的训练。 模型: Fish Speech v1.2 on Hugging Face 在线版: Fish Audio: Audio Generation For All 3. 字节的Seed-TTS（不开源） 描述: 支持多种语言包括英语、中文，能够进行同语言生成和跨语言生成，能处理各种文本，叙述性文本、情感表达、描述性文本等，能根据不同的情感和语境生成相应的语音。 项目: Seed-TTS 4. ChatTTS 描述: 对话式 TTS（可多人），支持中英文，韵律细腻。 GitHub: ChatTTS 模型: 2Noise/ChatTTS&hellip;",
+            "content_html": "<h1 id=\"2024主要的tts模型汇总\">2024主要的TTS模型汇总</h1>\n<h2 id=\"1-gpt-sovits\">1. GPT-SoVITS</h2>\n<ul>\n<li><strong>描述</strong>: AI 卖货主播大模型Streamer-Sales销冠用的这款TTS模型，支持英语、日语和中文，零样本文本到语音（TTS），集成工具包。</li>\n<li><strong>GitHub</strong>: <a href=\"https://github.com/RVC-Boss/GPT-SoVITS\">GPT-SoVITS</a></li>\n</ul>\n<h2 id=\"2-fish-speech-v12\">2. Fish Speech v1.2</h2>\n<ul>\n<li><strong>描述</strong>: 效果稳定非常好，支持克隆语音。经过 30 万小时的英语、中文和日语音频数据的训练。</li>\n<li><strong>模型</strong>: <a href=\"https://huggingface.co/fishaudio/fish-speech-1.2\">Fish Speech v1.2 on Hugging Face</a></li>\n<li><strong>在线版</strong>: <a href=\"https://fishaudio.com\">Fish Audio: Audio Generation For All</a></li>\n</ul>\n<h2 id=\"3-字节的seed-tts（不开源）\">3. 字节的Seed-TTS（不开源）</h2>\n<ul>\n<li><strong>描述</strong>: 支持多种语言包括英语、中文，能够进行同语言生成和跨语言生成，能处理各种文本，叙述性文本、情感表达、描述性文本等，能根据不同的情感和语境生成相应的语音。</li>\n<li><strong>项目</strong>: Seed-TTS</li>\n</ul>\n<h2 id=\"4-chattts\">4. ChatTTS</h2>\n<ul>\n<li><strong>描述</strong>: 对话式 TTS（可多人），支持中英文，韵律细腻。</li>\n<li><strong>GitHub</strong>: <a href=\"https://github.com/2noise/ChatTTS\">ChatTTS</a></li>\n<li><strong>模型</strong>: <a href=\"https://github.com/2noise/ChatTTS/tree/main\">2Noise/ChatTTS at main</a></li>\n</ul>\n<h2 id=\"5-huggingface的parler-tts\">5. HuggingFace的Parler-TTS</h2>\n<ul>\n<li><strong>描述</strong>: 可以控制音调、速度、性别、噪音水平、情绪特征等等。</li>\n<li><strong>GitHub</strong>: <a href=\"https://github.com/huggingface/parler-tts\">Parler-TTS</a></li>\n<li><strong>模型</strong>: <a href=\"https://huggingface.co/parler-tts\">Parler TTS on Hugging Face</a></li>\n</ul>\n<h2 id=\"6-metavoice-1b\">6. MetaVoice-1B</h2>\n<ul>\n<li><strong>描述</strong>: 支持多语言，在英语处理上实现了情感语音节奏。</li>\n<li><strong>GitHub</strong>: <a href=\"https://github.com/metavoiceio/metavoice-src\">MetaVoice-1B</a></li>\n</ul>\n<h2 id=\"7-mars5-tts\">7. MARS5-TTS</h2>\n<ul>\n<li><strong>描述</strong>: MARS5可以为体育解说、动漫等韵律复杂和多样化的场景生成语音。</li>\n<li><strong>GitHub</strong>: <a href=\"https://github.com/Camb-ai/MARS5-TTS\">MARS5-TTS</a></li>\n</ul>\n<h2 id=\"8-openvoice\">8. OpenVoice</h2>\n<ul>\n<li><strong>描述</strong>: 原生支持英语、西班牙语、法语、中文、日语和韩语，具有灵活的语音风格控制和零样本跨语言语音克隆能力。</li>\n<li><strong>GitHub</strong>: <a href=\"https://github.com/myshell-ai/OpenVoice\">OpenVoice</a></li>\n</ul>\n<h2 id=\"9-emotivoice\">9. EmotiVoice</h2>\n<ul>\n<li><strong>描述</strong>: 支持中英文双语，包含2000多种不同的音色。</li>\n<li><strong>GitHub</strong>: <a href=\"https://github.com/netease-youdao/EmotiVoice/blob/main/README.zh.md\">EmotiVoice</a></li>\n</ul>\n",
+            "author": {
+                "name": "loverwatch"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-04T23:52:26+08:00",
+            "date_modified": "2024-07-04T23:52:26+08:00"
+        },
+        {
             "id": "https://wuxiaoxrj.github.io/loverwatch.github.io/chromeai-wu-xian-liangchi-xian-shi-yong-de-chrome-dev-nei-zhi-gemini-nano-da-yu-yan-mo-xing.html",
             "url": "https://wuxiaoxrj.github.io/loverwatch.github.io/chromeai-wu-xian-liangchi-xian-shi-yong-de-chrome-dev-nei-zhi-gemini-nano-da-yu-yan-mo-xing.html",
             "title": "ChromeAI – 无限量、离线使用的 Chrome Dev 内置 Gemini Nano 大语言模型",
