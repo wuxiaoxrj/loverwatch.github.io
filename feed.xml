@@ -3,7 +3,7 @@
     <title>loverwatch</title>
     <link href="https://wuxiaoxrj.github.io/loverwatch.github.io/feed.xml" rel="self" />
     <link href="https://wuxiaoxrj.github.io/loverwatch.github.io" />
-    <updated>2024-07-04T23:52:26+08:00</updated>
+    <updated>2024-07-04T23:55:53+08:00</updated>
     <author>
         <name>loverwatch</name>
     </author>
@@ -20,7 +20,7 @@
         <updated>2024-07-04T23:52:26+08:00</updated>
             <summary>
                 <![CDATA[
-                    2024主要的TTS模型汇总 1. GPT-SoVITS 描述: AI 卖货主播大模型Streamer-Sales销冠用的这款TTS模型，支持英语、日语和中文，零样本文本到语音（TTS），集成工具包。 GitHub: GPT-SoVITS 2. Fish Speech v1.2 描述: 效果稳定非常好，支持克隆语音。经过 30 万小时的英语、中文和日语音频数据的训练。 模型: Fish Speech v1.2 on Hugging Face 在线版: Fish Audio: Audio Generation For All 3. 字节的Seed-TTS（不开源） 描述: 支持多种语言包括英语、中文，能够进行同语言生成和跨语言生成，能处理各种文本，叙述性文本、情感表达、描述性文本等，能根据不同的情感和语境生成相应的语音。 项目: Seed-TTS 4. ChatTTS 描述: 对话式 TTS（可多人），支持中英文，韵律细腻。 GitHub: ChatTTS 模型: 2Noise/ChatTTS&hellip;
+                    2024主要的TTS模型汇总 1. GPT-SoVITS 描述: AI 卖货主播大模型Streamer-Sales销冠用的这款TTS模型，支持英语、日语和中文，零样本文本到语音（TTS），集成工具包。 GitHub: GPT-SoVITS 2. Fish Speech v1.2 描述: 效果稳定非常好，支持克隆语音。经过 30 万小时的英语、中文和日语音频数据的训练。 模型: Fish Speech v1.2 on Hugging Face 在线版: Fish Audio: Audio Generation For All 3. 字节跳动——Seed-TTS（不开源） 描述: 支持多种语言包括英语、中文，能够进行同语言生成和跨语言生成，能处理各种文本，叙述性文本、情感表达、描述性文本等，能根据不同的情感和语境生成相应的语音。 项目: Seed-TTS 4. ChatTTS 描述: 对话式 TTS（可多人），支持中英文，韵律细腻。 GitHub: ChatTTS 模型: 2Noise/ChatTTS&hellip;
                 ]]>
             </summary>
         <content type="html">
@@ -37,10 +37,10 @@
 <li><strong>模型</strong>: <a href="https://huggingface.co/fishaudio/fish-speech-1.2">Fish Speech v1.2 on Hugging Face</a></li>
 <li><strong>在线版</strong>: <a href="https://fishaudio.com">Fish Audio: Audio Generation For All</a></li>
 </ul>
-<h2 id="3-字节的seed-tts（不开源）">3. 字节的Seed-TTS（不开源）</h2>
+<h2 id="3-字节跳动seed-tts（不开源）">3. 字节跳动——Seed-TTS（不开源）</h2>
 <ul>
 <li><strong>描述</strong>: 支持多种语言包括英语、中文，能够进行同语言生成和跨语言生成，能处理各种文本，叙述性文本、情感表达、描述性文本等，能根据不同的情感和语境生成相应的语音。</li>
-<li><strong>项目</strong>: Seed-TTS</li>
+<li><strong>项目</strong>: <a href="https://bytedancespeech.github.io/seedtts_tech_report/">Seed-TTS</a></li>
 </ul>
 <h2 id="4-chattts">4. ChatTTS</h2>
 <ul>
@@ -48,7 +48,7 @@
 <li><strong>GitHub</strong>: <a href="https://github.com/2noise/ChatTTS">ChatTTS</a></li>
 <li><strong>模型</strong>: <a href="https://github.com/2noise/ChatTTS/tree/main">2Noise/ChatTTS at main</a></li>
 </ul>
-<h2 id="5-huggingface的parler-tts">5. HuggingFace的Parler-TTS</h2>
+<h2 id="5-huggingfaceparler-tts">5. HuggingFace——Parler-TTS</h2>
 <ul>
 <li><strong>描述</strong>: 可以控制音调、速度、性别、噪音水平、情绪特征等等。</li>
 <li><strong>GitHub</strong>: <a href="https://github.com/huggingface/parler-tts">Parler-TTS</a></li>
