@@ -20,7 +20,7 @@
         <updated>2024-07-04T23:52:26+08:00</updated>
             <summary>
                 <![CDATA[
-                    2024主要的TTS模型汇总 1. GPT-SoVITS 描述: AI 卖货主播大模型Streamer-Sales销冠用的这款TTS模型，支持英语、日语和中文，零样本文本到语音（TTS），集成工具包。 GitHub: GPT-SoVITS 2. Fish Speech v1.2 描述: 效果稳定非常好，支持克隆语音。经过 30 万小时的英语、中文和日语音频数据的训练。 模型: Fish Speech v1.2 on Hugging Face 在线版: Fish Audio: Audio Generation For All 3. 字节跳动——Seed-TTS（不开源） 描述: 支持多种语言包括英语、中文，能够进行同语言生成和跨语言生成，能处理各种文本，叙述性文本、情感表达、描述性文本等，能根据不同的情感和语境生成相应的语音。 项目: Seed-TTS 4. ChatTTS 描述: 对话式 TTS（可多人），支持中英文，韵律细腻。 GitHub: ChatTTS 模型: 2Noise/ChatTTS&hellip;
+                    2024主要的TTS模型汇总 1. GPT-SoVITS 描述: AI 卖货主播大模型Streamer-Sales销冠用的这款TTS模型，支持英语、日语和中文，零样本文本到语音（TTS），集成工具包。 GitHub: GPT-SoVITS 2. Fish Speech v1.2 描述: 效果稳定非常好，支持克隆语音。经过 30 万小时的英语、中文和日语音频数据的训练。 模型: Fish Speech v1.2 on Hugging Face 在线版: Fish&hellip;
                 ]]>
             </summary>
         <content type="html">
